@@ -1,6 +1,7 @@
 asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio
 =======================================================================
 
+
 .. image:: https://travis-ci.org/MagicStack/asyncpg.svg?branch=master
     :target: https://travis-ci.org/MagicStack/asyncpg
 
